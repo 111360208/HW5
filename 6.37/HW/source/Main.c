@@ -8,7 +8,7 @@ int main()
 	int i, j, k, ans;
 	int array[100];
 	printf("輸入陣列長度 ");
-	scanf_s("%d", &i);
+	scanf("%d", &i);
 
 	printf("輸入陣列內容 \n");
 	for (j = 0; j < i; j++)
